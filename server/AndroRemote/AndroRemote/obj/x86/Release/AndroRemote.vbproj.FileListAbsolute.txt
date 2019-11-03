@@ -1,0 +1,9 @@
+D:\work\androRemote\server\AndroRemote\AndroRemote\bin\Release\AndroRemote.exe
+D:\work\androRemote\server\AndroRemote\AndroRemote\bin\Release\AndroRemote.pdb
+D:\work\androRemote\server\AndroRemote\AndroRemote\bin\Release\AndroRemote.xml
+D:\work\androRemote\server\AndroRemote\AndroRemote\obj\x86\Release\AndroRemote.frmMain.resources
+D:\work\androRemote\server\AndroRemote\AndroRemote\obj\x86\Release\AndroRemote.Resources.resources
+D:\work\androRemote\server\AndroRemote\AndroRemote\obj\x86\Release\AndroRemote.vbproj.GenerateResource.Cache
+D:\work\androRemote\server\AndroRemote\AndroRemote\obj\x86\Release\AndroRemote.exe
+D:\work\androRemote\server\AndroRemote\AndroRemote\obj\x86\Release\AndroRemote.xml
+D:\work\androRemote\server\AndroRemote\AndroRemote\obj\x86\Release\AndroRemote.pdb

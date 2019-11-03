@@ -1,0 +1,27 @@
+C:\Users\MrOryx\AppData\Local\Temporary Projects\AndroRemote\bin\Debug\AndroRemote.exe
+C:\Users\MrOryx\AppData\Local\Temporary Projects\AndroRemote\bin\Debug\AndroRemote.pdb
+C:\Users\MrOryx\AppData\Local\Temporary Projects\AndroRemote\bin\Debug\AndroRemote.xml
+C:\Users\MrOryx\AppData\Local\Temporary Projects\AndroRemote\obj\x86\Debug\AndroRemote.frmMain.resources
+C:\Users\MrOryx\AppData\Local\Temporary Projects\AndroRemote\obj\x86\Debug\AndroRemote.Resources.resources
+C:\Users\MrOryx\AppData\Local\Temporary Projects\AndroRemote\obj\x86\Debug\AndroRemote.vbproj.GenerateResource.Cache
+C:\Users\MrOryx\AppData\Local\Temporary Projects\AndroRemote\obj\x86\Debug\AndroRemote.exe
+C:\Users\MrOryx\AppData\Local\Temporary Projects\AndroRemote\obj\x86\Debug\AndroRemote.xml
+C:\Users\MrOryx\AppData\Local\Temporary Projects\AndroRemote\obj\x86\Debug\AndroRemote.pdb
+D:\work\androRemote\server\AndroRemote\AndroRemote\obj\x86\Debug\AndroRemote.exe
+D:\work\androRemote\server\AndroRemote\AndroRemote\obj\x86\Debug\AndroRemote.xml
+D:\work\androRemote\server\AndroRemote\AndroRemote\obj\x86\Debug\AndroRemote.pdb
+D:\work\androRemote\server\AndroRemote\AndroRemote\bin\Debug\AndroRemote.exe
+D:\work\androRemote\server\AndroRemote\AndroRemote\bin\Debug\AndroRemote.pdb
+D:\work\androRemote\server\AndroRemote\AndroRemote\bin\Debug\AndroRemote.xml
+D:\work\androRemote\server\AndroRemote\AndroRemote\obj\x86\Debug\AndroRemote.frmMain.resources
+D:\work\androRemote\server\AndroRemote\AndroRemote\obj\x86\Debug\AndroRemote.Resources.resources
+D:\work\androRemote\server\AndroRemote\AndroRemote\obj\x86\Debug\AndroRemote.vbproj.GenerateResource.Cache
+d:\Dropbox\Dev\androRemote\server\AndroRemote\AndroRemote\obj\x86\Debug\AndroRemote.exe
+d:\Dropbox\Dev\androRemote\server\AndroRemote\AndroRemote\obj\x86\Debug\AndroRemote.xml
+d:\Dropbox\Dev\androRemote\server\AndroRemote\AndroRemote\obj\x86\Debug\AndroRemote.pdb
+d:\Dropbox\Dev\androRemote\server\AndroRemote\AndroRemote\bin\Debug\AndroRemote.exe
+d:\Dropbox\Dev\androRemote\server\AndroRemote\AndroRemote\bin\Debug\AndroRemote.pdb
+d:\Dropbox\Dev\androRemote\server\AndroRemote\AndroRemote\bin\Debug\AndroRemote.xml
+d:\Dropbox\Dev\androRemote\server\AndroRemote\AndroRemote\obj\x86\Debug\AndroRemote.frmMain.resources
+d:\Dropbox\Dev\androRemote\server\AndroRemote\AndroRemote\obj\x86\Debug\AndroRemote.Resources.resources
+d:\Dropbox\Dev\androRemote\server\AndroRemote\AndroRemote\obj\x86\Debug\AndroRemote.vbproj.GenerateResource.Cache

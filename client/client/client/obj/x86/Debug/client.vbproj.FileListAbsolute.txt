@@ -1,0 +1,12 @@
+C:\Users\MrOryx\AppData\Local\Temporary Projects\client\obj\x86\Debug\client.Form1.resources
+C:\Users\MrOryx\AppData\Local\Temporary Projects\client\obj\x86\Debug\client.Resources.resources
+C:\Users\MrOryx\AppData\Local\Temporary Projects\client\obj\x86\Debug\client.vbproj.GenerateResource.Cache
+C:\Users\MrOryx\AppData\Local\Temporary Projects\client\bin\Debug\client.exe
+C:\Users\MrOryx\AppData\Local\Temporary Projects\client\bin\Debug\client.pdb
+C:\Users\MrOryx\AppData\Local\Temporary Projects\client\bin\Debug\client.xml
+C:\Users\MrOryx\AppData\Local\Temporary Projects\client\obj\x86\Debug\client.exe
+C:\Users\MrOryx\AppData\Local\Temporary Projects\client\obj\x86\Debug\client.xml
+C:\Users\MrOryx\AppData\Local\Temporary Projects\client\obj\x86\Debug\client.pdb
+D:\work\androRemote\client\client\client\obj\x86\Debug\client.exe
+D:\work\androRemote\client\client\client\obj\x86\Debug\client.xml
+D:\work\androRemote\client\client\client\obj\x86\Debug\client.pdb
